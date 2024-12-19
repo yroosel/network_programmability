@@ -1,0 +1,16 @@
+<filter>
+    <interfaces xmlns="urn:ietf:params:xml:ns:yang:ietf-interfaces">
+        <interface>
+            <name></name>
+            <enabled></enabled>
+            <ipv4 xmlns="urn:ietf:params:xml:ns:yang:ietf-ip">
+                <address>
+                    <ip></ip>
+                    <netmask></netmask>
+                </address>
+            </ipv4>
+        </interface>
+    </interfaces>
+</filter>
+
+
